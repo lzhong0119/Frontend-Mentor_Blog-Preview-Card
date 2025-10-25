@@ -54,6 +54,13 @@ body {
   font-size: 20px;
   margin-bottom: 10px;
 }
+.content-section h1:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+.content-section h1:active {
+  color: hsl(0, 0%, 7%);
+}
 
 .content-section p {
   color: hsl(0, 0%, 42%);
